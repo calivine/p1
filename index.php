@@ -5,7 +5,7 @@
   <head>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Template Page</title>
+    <title>Alex C. Project 1</title>
     <link href='./static/style.css' rel='stylesheet'>
   </head>
   <body>
